@@ -287,7 +287,8 @@ E = mc^2
 本课程报告模板基于原UESTC学位论文模板修改，原模板采用LaTeX Project Public License (LPPL)。
 
 - **原作者：** 王稳 (wangwen1192@outlook.com)
+- **原项目地址：** https://github.com/bdebye/thesisuestc.git
 - **修改者：** XingGou516 (xingfeiceng@gmail.com)
 - **修改内容：** 将学位论文模板简化为课程报告模板
 
-- **原项目地址：** https://github.com/bdebye/thesisuestc.git
+
