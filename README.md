@@ -10,6 +10,8 @@
 
 原始毕业论文模板由电子科技大学物理电子学院2014级硕士研究生**王稳**（wangwen1192@outlook.com）编写。
 
+原项目地址：https://github.com/bdebye/thesisuestc.git
+
 ### 课程报告版本修改者
 
 课程报告模板（report-uestc）基于原版thesis-uestc模板修改而来，由**XingGou516**（xingfeiceng@gmail.com）进行简化和改编。
@@ -287,3 +289,5 @@ E = mc^2
 - **原作者：** 王稳 (wangwen1192@outlook.com)
 - **修改者：** XingGou516 (xingfeiceng@gmail.com)
 - **修改内容：** 将学位论文模板简化为课程报告模板
+
+- **原项目地址：** https://github.com/bdebye/thesisuestc.git
